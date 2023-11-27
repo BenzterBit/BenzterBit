@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arnab Bit
-- 👀 I’m interested in Software Development and Computer Vision
-- 🌱 I’m currently learning Full stack
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full stack web development and AI
+- 🌱 I’m currently working at E-numeracy as a Software Product Developer
+- 💞️ I’m looking to collaborate on New Ideas, social causes, and developing more consciousness
 - 📫 How to reach me arnabbit1904@gmail.com
 
 <!---
